@@ -3,6 +3,10 @@
 M8L1
 Tema Hackthon -> perubahan iklim
 
+## Inilah ide untuk proyek saya:
+> Ide dengan menggabungkan chatbot dengan teachable machine (AI) yang dapat menebak lingkungan sedang musim apa 
+> Sedang terjadi pencemaran apa dan apa yang menyebabkan pencemaran tersebut
+
 Soal:
 1. Apa itu perubahan iklim?
 
